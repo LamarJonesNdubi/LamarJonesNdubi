@@ -10,31 +10,38 @@
 
 ### 👋🏾 About Me
 
-I'm **Lamar Ndubi**, a self-taught **AI engineer** dedicated to learning and mastering artificial intelligence from the ground up.
+I'm **Lamar Ndubi**, a self-taught **AI engineer** committed to mastering artificial intelligence from first principles — one line of code, one algorithm, one model at a time.
 
-Every day, I invest time into understanding how intelligent systems work — from basic Python scripts to advanced machine learning algorithms. My journey is built on curiosity, consistency, and the belief that with the right mindset, you can learn anything.
-
----
-
-### 🔍 What I’m Currently Learning
-
-- 🐍 Python for AI & Data Science  
-- 🤖 Machine Learning & Deep Learning  
-- 🧠 Neural Networks, NLP, and Reinforcement Learning  
-- 🌐 AI deployment with Flask, Django, and APIs  
-- 📊 Data Analysis, Model Training, and Optimization  
+Every day I study, build, and experiment with AI systems to sharpen my understanding and create meaningful intelligent solutions. I'm passionate about the intersection of logic, math, and creativity that makes AI a powerful tool for the future.
 
 ---
 
-### ⚒️ Tools & Technologies
+### 🧠 Current Areas of Focus
+
+- Python for AI
+- Linear Algebra, Calculus, Probability for ML
+- Machine Learning Algorithms
+- Deep Learning (CNNs, RNNs, Transformers)
+- Natural Language Processing
+- Reinforcement Learning
+- AI Model Deployment (Flask, Django, FastAPI)
+- Data Handling, Visualization, and Preprocessing
+- Model Evaluation and Optimization
+
+---
+
+### ⚙️ AI Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,rust,git,github,vscode,jupyter,flask,django,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,vscode,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=flask,django,fastapi" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br>
+  <img src="https://skillicons.dev/icons?i=scikit-learn,numpy,pandas,matplotlib,seaborn" />
 </div>
 
 ---
 
-### 📈 My GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=LamarJonesNdubi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -58,6 +65,18 @@ Every day, I invest time into understanding how intelligent systems work — fro
   </a>
   <a href="https://LamarJonesNdubi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### ☕ Support My Journey
+
+If you’d like to support my learning journey and encourage more open-source AI content, feel free to:
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/lamarndubi" target="_blank">
+    <img src="https://img.shields.io/badge/Buy Me a Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </div>
 
